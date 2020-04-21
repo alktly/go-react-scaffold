@@ -1,2 +1,2 @@
-# complaint-app
-Complaint Resolution Service
+# go-react-scaffold
+GoLang & React Web Application Scaffold
